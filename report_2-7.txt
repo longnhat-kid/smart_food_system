@@ -1,0 +1,78 @@
+﻿commit 9b38905ffca268efa127cc90786fca3678aa806a
+Author: Long Nhat <lionelnhat26@gmail.com>
+Date:   Wed July 1 20:44:13 2020 +0700
+
+    Feature order_food
+
+commit 132bbcf45907dd108467f48e20967ff347eab20b
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:   Mon June 29 23:14:17 2020 +0700
+
+    Feature add_to_cart
+
+commit cfb0953278ffc1276a7b0201ffc784e12abb386c
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:   Sat June 27 23:17:59 2020 +0700
+
+    
+    Feature search_food
+
+commit be005817cfe7743322ffc287a0097cbef11345f4
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:   Fri June 26 22:21:37 2020 +0700
+
+    Feature order
+
+commit 11ce38695aaf0646bff27758cce154690c468f98
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:   Tue June 23 09:31:23 2020 +0700
+
+    more fields added to a database record
+
+commit ce45eef13687bc2290fe278611ef25899eef12ca
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:   Sun June 21 07:59:03 2020 +0700
+
+    update database when add,delete,edit food
+
+commit 17ba2098eff1126bce2986eec7129bcd350097be
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:   Wed June 17  19:32:31 2020 +0700
+
+    clean architecture
+
+commit 7435ab27756ae83efab12eb9804347a093512d3a 
+Author: Long Nhat  <lionelnhat26@gmail.com>
+Date:  Sat June 13 11:30:32 2020 +0700
+
+    database
+
+commit 2177acf0097b1663eef625c55b278a5434cce970
+ Author: Long Nhat <lionelnhat26@gmail.com>
+Date:   Mon June 8 09:23:17 2020 +0700
+
+    update_user_interface
+
+commit abd3497001adf974211efa14765508a2648dd21a  
+Author: Long Nhat <lionelnhat26@gmail.com>
+Date:   Mon May 25 21:17:01 2020 +0700
+
+    admin_interface
+
+commit 2809feb13a4490dff001688ec901b78bb124cf06
+ Author: Long Nhat <lionelnhat26@gmail.com>
+Date:   Thu May 14 20:17:43 2020 +0700
+
+    staff_interface
+
+commit 43abc7761b0891be4453993e512209aef0612d27 
+Author: Long Nhat <lionelnhat26@gmail.com>
+Date:  Wed May 6 11:30:32 2020 +0700
+
+    user_interface
+
+commit eb112900ff35627d9010be44c6670e1367f001d2
+ Author: Long Nhat <lionelnhat26@gmail.com>
+Date:   Sat May 2 09:23:17 2020 +0700
+
+    initial commit
